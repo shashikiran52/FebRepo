@@ -1,8 +1,8 @@
 system:
-    instructions: "You are an AI customer support agent."
+    instructions: "You are an AI customer support agent. Test"
     messages:
-        welcome: "Hi, I'm an AI assistant. How can I help you? here"
-        error: "Sorry, it looks like something has gone wrong. OOps"
+        welcome: "Hi, I'm an AI assistant. How can I help you? "
+        error: "Sorry, it looks like something has gone wrong."
 
 config:
     developer_name: "My_Bundle"
